@@ -1,0 +1,45 @@
+date: 2026-06-21
+student: Malstrom
+topic: vocabulary_b1
+session_type: study
+
+concepts_taught:
+  - word_families_by_topic
+  - word_formation
+  - collocations
+  - near_synonyms
+  - linking_words
+
+randori_results:
+  - concept: word_families_by_topic
+    question: explain meaning of 'afford' and why it often appears with 'can\'t'
+    answer: "позволить"
+    result: gap
+    gap: confused 'afford' (resources) with 'allow' (permission); also used wrong preposition 'go to a trip'
+    followup_answer: "I can't afford to go to a trip"
+    followup_result: pass_with_correction
+
+  - concept: word_formation
+    question: noun and adjective forms of 'succeed'
+    answer: success / successful
+    result: pass
+
+  - concept: collocations
+    question: make/do/take + mistake/exam/risk
+    answer: make a mistake / do an exam / take a risk
+    result: pass
+
+  - concept: near_synonyms
+    question: lend/borrow + look/watch/see
+    answer: lend / watched
+    result: pass
+
+  - concept: linking_words
+    question: structural difference between 'despite' and 'although'
+    answer: despite пишется перед существительными
+    result: pass
+
+score: 4/5
+gaps_identified:
+  - afford (meaning)
+  - go on a trip (preposition)
