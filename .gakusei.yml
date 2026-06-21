@@ -4,6 +4,6 @@
 # Topic state is derived at runtime from: goal issues + kata files + nikki filenames.
 # DO NOT add topics.*, goals.*, or last_session.* — they are intentionally absent.
 
-student_name: ""
-language: ""                    # chat language, e.g. italian, english
+student_name: "Malstrom"
+language: "russian"             # chat language
 issue_language: "english"       # language for issue/PR bodies and file content
